@@ -4,7 +4,8 @@ Stack Used: React.js & Tailwind CSS w/ WebAPI
 How to run the Project
 
 **1. Clone the repository**  
-   git clone https://github.com/Rakyun/Quiz-Island.git
+   git clone https://github.com/Rakyun/Quiz-Island.git 
+   
    cd Quiz-Island
    
 **2. Install Dependencies**  
