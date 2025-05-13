@@ -2,7 +2,7 @@ import React from "react";
 
 const Modal = (props) => {
   return (
-    <div className="fixed inset-x-[25%] inset-y-[20%] p-10 flex flex-col items-center justify-center bg-gray-700 rounded-lg shadow-lg">
+    <div className="fixed inset-x-[25%] text-center inset-y-[20%] p-10 flex flex-col items-center justify-center bg-gray-700 rounded-lg shadow-lg">
       <p className="text-white text-2xl mb-10">Your Answer is</p>
       <p
         className={` text-4xl mb-10 ${
