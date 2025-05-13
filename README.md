@@ -1,4 +1,4 @@
-# Quiz Island (Joshua Daniel Sevilla
+# Quiz Island (Joshua Daniel Sevilla)
 Stack Used: React.js & Tailwind CSS w/ WebAPI
 
 How to run the Project
