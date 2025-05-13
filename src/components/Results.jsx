@@ -62,7 +62,7 @@ const Results = (props) => {
             </p>
             <button
               onClick={props.continue}
-              className="p-4 text-3xl w-[70%] bg-white-600 rounded-xl font-bold  mb-4 bg-white text-black shadow-lg transition duration-300 hover:bg-gray-300 hover:scale-105"
+              className="cursor-pointer select-none p-4 text-3xl w-[70%] bg-white-600 rounded-xl font-bold  mb-4 bg-white text-black shadow-lg transition duration-300 hover:bg-gray-300 hover:scale-105"
             >
               Continue
             </button>
